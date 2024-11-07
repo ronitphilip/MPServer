@@ -1,0 +1,74 @@
+{
+  "uploadVideos": [
+    {
+      "id": "b32d",
+      "caption": "Demo video",
+      "imgUrl": "https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "youtubeLink": "https://www.youtube.com/embed/NmPNsK30IXA"
+    },
+    {
+      "id": "8b07",
+      "caption": "One Piece fan letter",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjfyDfXopK_PNv8BreVbpT8EmibSaCwJj2Q&s",
+      "youtubeLink": "https://www.youtube.com/embed/X3jiLTnoeO4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "d08d",
+      "categoryName": "Demo",
+      "allVideos": [
+        {
+          "caption": "demo 3",
+          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3S4ZjsfNs5zJ-lUPc_hPZwZ8-_-sfDvN1Cw&s",
+          "youtubeLink": "https://www.youtube.com/embed/NmPNsK30IXA",
+          "id": "NqjhfWv"
+        }
+      ]
+    },
+    {
+      "id": "5e19",
+      "categoryName": "demo 2",
+      "allVideos": [
+        {
+          "id": "9ba6",
+          "caption": "demo 3",
+          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3S4ZjsfNs5zJ-lUPc_hPZwZ8-_-sfDvN1Cw&s",
+          "youtubeLink": "https://www.youtube.com/embed/5dy3azady4w"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "268a",
+      "caption": "Lucky Baskhar",
+      "youtubeLink": "https://www.youtube.com/embed/Pt3syVmQqdg",
+      "timeStamp": "11/1/2024, 9:48:20 AM GMT+5:30"
+    },
+    {
+      "id": "5f0e",
+      "caption": "demo",
+      "youtubeLink": "https://www.youtube.com/embed/flbLXsW0_fA",
+      "timeStamp": "11/4/2024, 2:31:00 AM GMT+5:30"
+    },
+    {
+      "id": "1ac5",
+      "caption": "demo",
+      "youtubeLink": "https://www.youtube.com/embed/flbLXsW0_fA",
+      "timeStamp": "11/4/2024, 2:32:40 AM GMT+5:30"
+    },
+    {
+      "id": "8fe0",
+      "caption": "demo",
+      "youtubeLink": "https://www.youtube.com/embed/flbLXsW0_fA",
+      "timeStamp": "11/4/2024, 10:27:38 AM GMT+5:30"
+    },
+    {
+      "id": "9347",
+      "caption": "One Piece fan letter",
+      "youtubeLink": "https://www.youtube.com/embed/X3jiLTnoeO4",
+      "timeStamp": "11/6/2024, 10:07:42 AM GMT+5:30"
+    }
+  ]
+}
